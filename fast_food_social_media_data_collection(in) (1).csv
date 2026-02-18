@@ -1,0 +1,58 @@
+Brand,Post_ID,Post_Date,Post_Date(yyyy-mm-dd),Post_Time,Day_of_Week,Post_Type,Caption_Text,Caption_Length,Num_Hashtags,Hashtag_List,Likes,Comments,Follower_Count,Engagement_Rate,Content_Category
+Greggs,Greggs_001,17/02/2026,2026-02-17,17:45,Tuesday,Video,is ‘all of it?’ an option? – asking for a friend x,50,0,,512,10,232000,0.23,Humour
+Greggs,Greggs_002,16/02/2026,2026-02-16,12:00,Monday,Video,"watch out for Pink Jammie, she’s a savage?? who should challenge the winner? ?? ",78,0,,443,19,232000,0.20,Humour
+Greggs,Greggs_003,14/02/2026,2026-02-14,12:00,Saturday,Image,Out – commitment rings In – Greggs couples tattoos x ,52,0,,2430,52,232000,1.07,Lifestyle
+Greggs,Greggs_004,13/02/2026,2026-02-13,12:00,Friday,Image,roses for Valentine’s Day? BORING ??... get them a Greggs Iced Matcha Latte instead x,84,0,,1483,21,232000,0.65,Product
+Greggs,Greggs_005,13/02/2026,2026-02-13,11:45,Friday,Video,"Refreshed. Calm. In our pilates era. What a way to stretch out the celebrations of our new range of Iced Matcha Lattes, available now x",135,0,,1560,92,232000,0.71,Lifestyle
+Greggs,Greggs_006,11/02/2026,2026-02-11,12:00,Wednesday,Image,"who knew that happiness also came in vanilla and strawberry? X our brand new Iced Matcha Latte, Strawberry Iced Matcha Latte, and Vanilla Iced Matcha Latte are available now ?? ",175,0,,481,16,232000,0.21,Lifestyle
+Greggs,Greggs_007,09/02/2026,2026-02-09,12:00,Monday,Video,Love an emotional reunion tbh. The Lemon Meringue Muffin and Vegan Lattice (Steak Free) are back ??,98,0,,945,42,232000,0.43,Humour
+Greggs,Greggs_008,07/02/2026,2026-02-07,12:00,Saturday,Image,"Trust us, they don’t want flowers for Valentines Day, they want the £25 set menu at The Golden Flake Tavern, only at Fenwick Newcastle ?? Booking link in bio ???? ",160,0,,1151,18,232000,0.50,Promo
+Greggs,Greggs_009,06/02/2026,2026-02-06,12:00,Friday,Video,"First come, first served ?? All Matcha and Move spaces have now all been snapped up, but dw you can still grab a delicious sip of Matcha in Greggs now ??Matcha at Greggs? That’s a stretch ?? to celebrate our new Iced Matcha Latte range, why not try our pop up Pilates class in the heart of London complete with a gorgeous matcha bar, our fresh and famous Sausage Rolls and your very own free merch bundle. Book your Matcha & Move spot now. spaces very limited so move both quickly AND mindfully ????????????London?? 13th and 14th Feb??Link in bio ",539,0,,338,35,232000,0.16,Product
+Greggs,Greggs_010,05/02/2026,2026-02-05,12:00,Thursday,Video,"We’re bringing Matcha to the masses. See you on your next Greggs, erm, mindfulness run x",88,0,,2433,99,232000,1.09,Product
+Greggs,Greggs_011,04/02/2026,2026-02-04,12:00,Wednesday,Video,petition to start introducing Sausage Roll breaks x,51,0,,4149,99,232000,1.83,Lifestyle
+Greggs,Greggs_012,03/02/2026,2026-02-03,12:00,Tuesday,Carousel,fresh new routine just dropped and it’s served over ice ??try a taste of our new Iced Matcha Latte range with a side of Pilates and pastry. Tickets available to our launch event from midday on Friday 6th February ?? ,213,0,,473,28,232000,0.22,Lifestyle
+Greggs,Greggs_013,02/02/2026,2026-02-02,12:00,Monday,Video,Hint: it starts with ‘mmm’ ??,28,0,,1399,104,232000,0.65,Product
+Greggs,Greggs_014,28/01/2026,2026-01-28,12:00,Wednesday,Video,a Steak Bake with 90 degree angles would hit different x,56,0,,22500,238,232000,9.80,Humour
+Greggs,Greggs_015,26/01/2026,2026-01-26,12:00,Monday,Video,There’s no place like home ??,28,0,,3400,58,232000,1.49,Humour
+Greggs,Greggs_016,13/01/2026,2026-01-13,12:00,Tuesday,Carousel,Didn’t you get the memo? It’s 2016 again x,42,0,,2057,34,232000,0.90,Humour
+Greggs,Greggs_017,13/01/2026,2026-01-13,11:01,Tuesday,Video,little peak behind the curtain x,32,0,,391,6,232000,0.17,Humour
+Greggs,Greggs_018,09/01/2026,2026-01-09,12:00,Friday,Image,Don’t tell anyone ??,19,0,,5876,222,232000,2.63,Humour
+Greggs,Greggs_019,09/01/2026,2026-01-09,12:00,Friday,Carousel,can’t believe the most awkward moment of 2026 dropped in the first half of January,82,0,,3385,35,232000,1.47,Humour
+McDonalds ,McDonalds_001,16/02/2026,2026-02-16,12:00,Monday,Carousel,your breakfast inspo for tomorrow. thank me later ??,51,0,,1413,98,352000,0.43,Product
+McDonalds ,McDonalds_002,14/02/2026,2026-02-14,12:00,Saturday,Image,tag your small king,19,0,,573,59,352000,0.18,Humour
+McDonalds ,McDonalds_003,13/02/2026,2026-02-13,12:00,Friday,Video,Breaking 17.03.26,17,0,,8302,680,352000,2.55,Promo
+McDonalds ,McDonalds_004,11/02/2026,2026-02-11,12:00,Wedneday,Carousel,where do I sign up?,19,0,,558,46,352000,0.17,Humour
+McDonalds ,McDonalds_005,09/02/2026,2026-02-09,12:00,Monday,Image,fry every time ????,17,0,,1453,821,352000,0.65,Product
+McDonalds ,McDonalds_006,06/02/2026,2026-02-06,12:00,Friday,Image,wow the curling stones look different this year...,50,0,,737,29,352000,0.22,Product
+McDonalds ,McDonalds_007,03/02/2026,2026-02-03,12:00,Tuesday,Carousel,turned your favourite characters into collectibles. Friends Meal now at McDonald's. you're welcome.,99,0,,12100,771,352000,3.66,Humour
+McDonalds ,McDonalds_008,02/02/2026,2026-02-02,12:00,Monday,Video,yeah but does your lamp have adjustable brioche intensity?,58,0,,373,43,352000,0.12,Lifestyle
+McDonalds ,McDonalds_009,02/01/2026,2026-01-02,12:00,Sunday,Video,i must bathe in the brioche glow of Big Arch Bun Lamp,53,0,,1171,81,352000,0.36,Product
+McDonalds ,McDonalds_010,30/01/2026,2026-01-30,12:00,Friday,Carousel,is it even iconic if it’s not on eBay?,38,0,,3417,318,352000,1.06,Product
+McDonalds ,McDonalds_011,29/01/2026,2026-01-29,12:00,Thursday,Carousel,heard we’re sharing our 2016 throwbacks ??,41,0,,21100,6031,352000,7.71,Product
+McDonalds ,McDonalds_012,26/01/2026,2026-01-26,12:00,Monday,Carousel,comment when you see it ??,25,0,,2937,289,352000,0.92,Humour
+McDonalds ,McDonalds_013,23/01/2026,2026-01-23,12:00,Friday,Image,it was this or put it in tartan,31,0,,929,148,352000,0.31,Humour
+McDonalds ,McDonalds_014,20/01/2026,2026-01-20,12:00,Tuesday,Carousel,the only sauce i care about,27,0,,3299,461,352000,1.07,Product
+McDonalds ,McDonalds_015,11/01/2026,2026-01-11,12:00,Sunday,Image,dont lie uv always wondered,27,0,,172,39,352000,0.06,Lifestyle
+McDonalds ,McDonalds_016,09/01/2026,2026-01-09,12:00,Friday,Image,Thought I had it all worked out,31,0,,500,43,352000,0.15,Humour
+McDonalds ,McDonalds_017,07/01/2026,2026-01-07,12:00,Wednesday,Image,The Secret (Menu) is out now ????,31,0,,1022,220,352000,0.35,Promo
+McDonalds ,McDonalds_018,06/01/2026,2026-01-06,12:00,Tuesday,Carousel,I think I dreamt this collab in a cheese dream ???? Happy Meal x @tmnt x @hellokitty ,82,0,,917,52,352000,0.28,Product
+McDonalds ,McDonalds_019,05/01/2026,2026-01-05,12:00,Monday,Video,the Secret Menu is official,27,0,,11900,355,352000,3.48,Product
+Nandos,Nandos_001,16/01/2026,2026-01-16,12:00,Monday,Video,spice up your pancake plans,27,0,,674,10,445000,0.15,Educational
+Nandos,Nandos_002,12/02/2026,2026-02-12,12:00,Thursday,Video,… tag ur crush???? #valentines #nandos,37,2,#valentines #nandos,569,23,445000,0.13,Lifestyle
+Nandos,Nandos_003,10/02/2026,2026-02-10,12:00,Tuesday,Carousel,p lucky. send to a friend for good fortune x,44,0,,893,6,445000,0.20,Humour
+Nandos,Nandos_004,05/02/2026,2026-02-05,12:00,Thursday,Image,vitamin dywtgtn?,14,0,,1322,35,445000,0.30,Humour
+Nandos,Nandos_005,04/02/2026,2026-02-04,12:00,Wednesday,Video,who’s trying?,13,0,,767,64,445000,0.19,Product
+Nandos,Nandos_006,02/02/2026,2026-02-02,12:00,Monday,Video,?? #nandos #grammys,18,2, #nandos #grammys,1203,94,445000,0.29,Humour
+Nandos,Nandos_007,30/01/2026,2026-01-30,12:00,Friday,Carousel,Mango & Lime PERi-Chutney????,29,0,,1113,16,445000,0.25,Product
+Nandos,Nandos_008,27/01/2026,2026-01-27,12:00,Tuesday,Carousel,drizzly out there ?? warm in here,32,0,,1109,16,445000,0.25,Product
+Nandos,Nandos_009,22/01/2026,2026-01-22,12:00,Thurday,Image,"hot answers only, quickest guess wins… ??",40,0,,422,48,445000,0.11,Product
+Nandos,Nandos_010,20/01/2026,2026-01-20,12:00,Tuesday,Carousel,Vintroducing our new Nandoca Burger. here until 17th Feb ???????,60,0,,1742,85,445000,0.41,Product
+Nandos,Nandos_011,19/01/2026,2026-01-19,12:00,Monday,Video,"our step-by-step guide, you’re welcome x #nandosuk #drpepper #howtoguide",72,3,#nandosuk #drpepper #howtoguide,1067,40,445000,0.25,Educational
+Nandos,Nandos_012,14/01/2026,2026-01-14,12:00,Wednesday,Video,there’s goals and then there’s goals @bukayosaka87 ?????,55,0,,,22,445000,0.00,Promo
+Nandos,Nandos_013,12/01/2026,2026-01-12,12:00,Monday,Image,supremely delicious #nandosuk #january #goldenglobes ,52,3,#nandosuk #january #goldenglobes ,1760,25,445000,0.40,Humour
+Nandos,Nandos_014,08/01/2026,2026-01-08,12:00,Thursday,Image,one trip assassin,17,0,,997,40,445000,0.23,Humour
+Nandos,Nandos_015,07/01/2026,2026-01-07,12:00,Wednesday,Image,ofc we made it hard,19,0,,2797,209,445000,0.68,Humour
+Nandos,Nandos_016,05/01/2026,2026-01-05,12:00,Monday,Video,drop ur orders for 2026???? #nandos,33,1,#nandos,933,28,445000,0.22,Product
+Nandos,Nandos_017,31/12/2025,2025-12-31,12:00,Wednesday,Image,farewell total sleigh x,23,0,,712,17,445000,0.16,Humour
+Nandos,Nandos_018,29/12/2025,2025-12-29,12:00,Monday,Carousel,what day is it?,15,0,,1218,10,445000,0.28,Humour
+Nandos,Nandos_019,24/12/2025,2025-12-24,12:00,Wednesday,Video,all we want for xmas is a cracker full of croquettes?? #christmascracker #nandos,79,2, #christmascracker #nandos,318,14,445000,0.07,Product
