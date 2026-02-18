@@ -1,4 +1,5 @@
 # UK_FastFood_SocialMedia_Analysis
+<img width="1369" height="730" alt="image" src="https://github.com/user-attachments/assets/f347ad0d-24b7-4845-a94a-08edec92d2fd" />
 
 <img width="1194" height="692" alt="Screenshot 2026-02-17 223518" src="https://github.com/user-attachments/assets/dbc15442-d2f8-410c-8b54-5fcc7b82ec0e" />
 <img width="1176" height="637" alt="Screenshot 2026-02-17 223534" src="https://github.com/user-attachments/assets/8dcd81d6-cc5b-41ce-a724-98a0a9c68758" />
