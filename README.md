@@ -1,236 +1,191 @@
 # UK Fast Food Social Media Performance Analysis
-Author: Naomi Olanipekun
-Date: February 2026
-Project Type: Data Analysis, Marketing Analytics
 
-🎯 Business Context
+# 🎯 Business Context
 In today's digital world, social media is crucial for brand visibility and customer engagement. Food brands invest heavily in Instagram marketing, but often lack data-driven insights about what content resonates with their audience. This analysis provides actionable recommendations for optimising social media strategy.
 
-📊 Project Overview
+# 📊 Project Overview
 This project analyses Instagram performance across three major UK fast food brands to understand what drives engagement in the competitive food service sector. By examining 56 Instagram posts, this analysis reveals key insights about content strategy, posting behaviour, and customer engagement patterns.
 
-Research Question
+# Research Question
 "What social media strategies drive the highest engagement for UK fast food brands?"
 
 <img width="1369" height="730" alt="image" src="https://github.com/user-attachments/assets/f347ad0d-24b7-4845-a94a-08edec92d2fd" />
 
+# Findings/Insights:
 1. Greggs Leads in Engagement
+- Greggs achieved 1.28% average engagement - the highest of all three brands
+- McDonald's followed closely at 1.25%
+- Nando's significantly underperformed at 0.24%
+- Recommendation: Study Greggs' community-focused, humorous approach as a benchmark
 
-Greggs achieved 1.28% average engagement - the highest of all three brands
-McDonald's followed closely at 1.25%
-Nando's significantly underperformed at 0.24%
-Recommendation: Study Greggs' community-focused, humorous approach as a benchmark
-
-2. Video Content and Carousels Dominate
-
-Carousel posts and video content generated nearly 2x the engagement of static images
-Video and carousel formats allow for storytelling and multiple touchpoints
-Recommendation: Allocate 60-70% of content budget to video and carousel production
+2.  Video Content and Carousels Dominate
+- Carousel posts and video content generated nearly 2x the engagement of static images
+- Video and carousel formats allow for storytelling and multiple touchpoints
+- Recommendation: Allocate 60-70% of content budget to video and carousel production
 
 3. Humour Outperforms Product-Focused Content
-
-Humorous content captured 30% of total engagement despite being a smaller portion of posts
-Product-focused posts showed lower engagement rates
-Entertainment-style content drives authentic audience connection
-Recommendation: Balance promotional content with entertainment and lifestyle posts
+- Humorous content captured 30% of total engagement despite being a smaller portion of posts
+- Product-focused posts showed lower engagement rates
+- Entertainment-style content drives authentic audience connection
+- Recommendation: Balance promotional content with entertainment and lifestyle posts
 
 4. Mid-to-Late Week Posting is Optimal
-
-Thursday and Friday showed peak engagement with rates reaching 2.0%
-Wednesday also performed strongly (~1.5%)
-Saturday showed a slight dip, potentially due to reduced social media usage
-Recommendation: Schedule premium content for Wednesday-Friday
+- Thursday and Friday showed peak engagement with rates reaching 2.0%
+- Wednesday also performed strongly (~1.5%)
+- Saturday showed a slight dip, potentially due to reduced social media usage
+- Recommendation: Schedule premium content for Wednesday-Friday
 
 5. McDonald's Carousel Strategy Excels
-
-Top performing post: McDonald's carousel at 7.71% engagement - 8x the average!
-McDonald's dominated the top 5 performing posts
-Carousel format allows multiple products/messages in one post
-Recommendation: Implement carousel posts for product launches and campaigns
+- Top performing post: McDonald's carousel at 7.71% engagement - 8x the average!
+- McDonald's dominated the top 5 performing posts
+- Carousel format allows multiple products/messages in one post
+- Recommendation: Implement carousel posts for product launches and campaigns
 
 6. Overall Performance Above Industry Benchmark
-
-Average engagement rate: 0.92%
-Industry benchmark for brands with 200K+ followers: 0.5-1%
-All three brands perform within or above industry standards
-
-
-🛠️ Tools & Technologies
-
-Microsoft Excel: Data collection, cleaning, and initial exploration
-SQL (SQLite): Data querying, aggregation, and pattern identification
-Power BI: Interactive dashboard creation and data visualisation
-GitHub: Version control and project documentation
+- Average engagement rate: 0.92%
+- Industry benchmark for brands with 200K+ followers: 0.5-1%
+- All three brands perform within or above industry standards
 
 
-📁 Dataset
+# 🛠️ Tools & Technologies
+- Microsoft Excel: Data collection, cleaning, and initial exploration
+- SQL (SQLite): Data querying, aggregation, and pattern identification
+- Power BI: Interactive dashboard creation and data visualisation
+- GitHub: Version control and project documentation
+
+
+# 📁 Dataset
 Data Collection Methodology
+- Source: Instagram public posts (manual collection)
+- Sample Size: 57 posts (19 per brand, minus 1 with hidden likes)
+- Time Period: January-February 2026
+- Collection Method: Manual recording from public Instagram profiles
 
-Source: Instagram public posts (manual collection)
-Sample Size: 56 posts (19 per brand, minus 1 with hidden likes)
-Time Period: January-February 2026
-Collection Method: Manual recording from public Instagram profiles
+# Brands Analysed
+- Greggs (@greggs_official) - 232,000 followers
+- Nando's UK (@nandosuk) - 446,000 followers
+- McDonald's UK (@mcdonaldsuk) - 339,000 followers
 
-Brands Analysed
+# Data Fields Collected
+- Post metadata (date, time, day of week)
+- Post type (image, video, carousel)
+- Content category (product, lifestyle, humour, promo, educational)
+- Engagement metrics (likes, comments)
+- Caption analysis (length, hashtags)
+- Calculated Engagement Rate = ((Likes + Comments) / Follower Count) × 100
 
-Greggs (@greggs_official) - 232,000 followersNando's UK 
-(@nandosuk) - 446,000 followers
-McDonald's UK (@mcdonaldsuk) - 339,000 followers
-
-Data Fields Collected
-
-Post metadata (date, time, day of week)
-Post type (image, video, carousel)
-Content category (product, lifestyle, humour, promo, educational)
-Engagement metrics (likes, comments)
-Caption analysis (length, hashtags)
-Calculated engagement rate: (Likes + Comments) / Followers × 100
-
-
-📊 Analysis Approach
+# 📊 Analysis Approach
 1. Data Collection (4 hours)
-
-Manually collected 19 posts from each brand's Instagram profile
-Recorded 14 data points per post including engagement metrics
-Ensured data quality and consistency across all brands
+- Manually collected 19 posts from each brand's Instagram profile
+- Recorded 14 data points per post including engagement metrics
+- Ensured data quality and consistency across all brands
 
 2. Data Cleaning & Preparation
-
-Standardised date formats across dataset
-Calculated engagement rates for each post
-Categorised content into 5 distinct types
-Removed 1 post with hidden likes to maintain data integrity
+- Standardised date formats across dataset
+- Calculated engagement rates for each post
+- Categorised content into 5 distinct types
+- Removed 1 post with hidden likes to maintain data integrity
 
 3. SQL Analysis
-
-Used SQLite for data querying and aggregation
-Calculated average engagement by brand, post type, and content category
-Identified top-performing posts and content patterns
-Analysed temporal patterns (day of week performance)
+- Used SQLite for data querying and aggregation
+- Calculated average engagement by brand, post type, and content category
+- Identified top-performing posts and content patterns
+- Analysed temporal patterns (day of week performance)
 
 4. Data Visualisation
+- Created interactive Power BI dashboard with 5 key visualisations
+- Designed charts highlighting brand comparison, content strategy, and timing analysis
+- Applied professional formatting and clear labelling
+- Enabled insights to be communicated visually
 
-Created interactive Power BI dashboard with 5 key visualisations
-Designed charts highlighting brand comparison, content strategy, and timing analysis
-Applied professional formatting and clear labelling
-Enabled insights to be communicated visually
 
-
-📊 Dashboard Visualisations
+# 📊 Dashboard Visualisations
 The Power BI dashboard includes:
+- Average Engagement Rate by Brand - Bar chart showing Greggs' leadership
+- Engagement Rate by Content Category - Pie chart revealing humour's dominance
+- Best Days to Post - Line chart identifying optimal posting schedule
+- Engagement Rate by Type of Post - Grouped column chart comparing video, carousel, and image performance across brands
+- Top 5 Performing Posts - Table showcasing highest-engagement content with metrics
 
-Average Engagement Rate by Brand - Bar chart showing Greggs' leadership
-Engagement Rate by Content Category - Pie chart revealing humour's dominance
-Best Days to Post - Line chart identifying optimal posting schedule
-Engagement Rate by Type of Post - Grouped column chart comparing video, carousel, and image performance across brands
-Top 5 Performing Posts - Table showcasing highest-engagement content with metrics
+# 💡 Business Recommendations
 
-
-💡 Business Recommendations
 For Food Service Brands:
 1. Prioritise Video and Carousel Formats
-
-Invest in video production capabilities
-Use carousel posts for product storytelling
-Leverage Instagram Reels for short-form content
+- Invest in video production capabilities
+- Use carousel posts for product storytelling
+- Leverage Instagram Reels for short-form content
 
 2. Adopt Entertainment-First Strategy
-
-Move beyond product-only posts
-Incorporate humour, memes, and trending content
-Build brand personality through authentic engagement
+- Move beyond product-only posts
+- Incorporate humour, memes, and trending content
+- Build brand personality through authentic engagement
 
 3. Optimise Posting Schedule
-
-Focus premium content on Wednesday-Friday
-Reduce weekend posting frequency
-Monitor audience behaviour for refinement
+- Focus premium content on Wednesday-Friday
+- Reduce weekend posting frequency
+- Monitor audience behaviour for refinement
 
 4. Learn from High Performers
-
-Study Greggs' community engagement tactics
-Analyse McDonald's carousel post strategy
-Benchmark regularly against competitors
+- Study Greggs' community engagement tactics
+- Analyse McDonald's carousel post strategy
+- Benchmark regularly against competitors
 
 5. Simplify Hashtag Strategy
-
-For established brands (200K+ followers), hashtags showed minimal impact
-Only 10% of analysed posts used hashtags
-Focus on compelling captions over hashtag stuffing
-
-
-📂 Repository Structure
-uk-fastfood-social-media-analysis/
-│
-├── data/
-│   └── UK_FastFood_Social_Media_Data.xlsx    # Raw dataset
-│
-├── sql/
-│   └── analysis_queries.sql                   # SQL queries used
-│
-├── visualisations/
-│   ├── UK_FastFood_Dashboard.pbix            # Power BI file
-│   └── Dashboard_Screenshot.png               # Dashboard preview
-│
-└── README.md                                   # This file
-
-🔍 Methodology Details
-Engagement Rate Calculation
-Engagement Rate = ((Likes + Comments) / Follower Count) × 100
-Industry Context
-
-Micro-influencers (10K-100K followers): 2-5% typical engagement
-Mid-tier (100K-500K): 1-3% typical engagement
-Large brands (200K+): 0.5-2% typical engagement ← This project's scope
-
-Data Limitations
-
-Sample size: 56 posts (one month of data)
-Seasonal variations not captured
-Reach and impression data unavailable (public data only)
-Instagram algorithm changes not accounted for
-One post excluded due to hidden likes
+- For established brands (200K+ followers), hashtags showed minimal impact
+- Only 10% of analysed posts used hashtags
+- Focus on compelling captions over hashtag stuffing
 
 
-🎓 Skills Demonstrated
+# 🔍 Methodology Details
+
+# Industry Context
+- Micro-influencers (10K-100K followers): 2-5% typical engagement
+- Mid-tier (100K-500K): 1-3% typical engagement
+- Large brands (200K+): 0.5-2% typical engagement ← This project's scope
+
+# Data Limitations
+- Sample size: 57 posts (one month of data)
+- Seasonal variations not captured
+- Reach and impression data unavailable (public data only)
+- Instagram algorithm changes not accounted for
+- One post excluded due to hidden likes
+
+
+# 🎓 Skills Demonstrated
+
 Technical Skills:
-
-Data collection and manual research
-Data cleaning and validation in Excel
-SQL querying (GROUP BY, aggregations, filtering, sorting)
-Data visualisation and dashboard design in Power BI
-GitHub version control
+- Data collection and manual research
+- Data cleaning and validation in Excel
+- SQL querying (GROUP BY, aggregations, filtering, sorting)
+- Data visualisation and dashboard design in Power BI
+- GitHub version control
 
 Business Skills:
+- Marketing analytics and KPI understanding
+- Competitive analysis and benchmarking
+- Translating data into actionable business recommendations
+- Strategic thinking about content marketing
+- Stakeholder communication
 
-Marketing analytics and KPI understanding
-Competitive analysis and benchmarking
-Translating data into actionable business recommendations
-Strategic thinking about content marketing
-Stakeholder communication
 
-
-📚 Project Learnings
+# 📚 Project Learnings
 This project allowed me to:
-
-Apply data analysis skills to real-world marketing challenges
-Collect and structure primary research data
-Use SQL for business intelligence queries
-Create professional visualisations that tell a story
-Combine my business/marketing background with technical data skills
+- Apply data analysis skills to real-world marketing challenges
+- Collect and structure primary research data
+- Use SQL for business intelligence queries
+- Create professional visualisations that tell a story
+- Combine my business/marketing background with technical data skills
 
 As someone with a Bachelor's in Business and Marketing, this project demonstrates my unique ability to bridge marketing strategy with data-driven insights - a critical skill for modern marketing analytics roles.
 
-🚀 Future Enhancements
+# 🚀 Future Enhancements
 
-Expand timeframe: Collect 3-6 months of data for trend analysis
-Sentiment analysis: Analyse comment sentiment and tone
-Add more brands: Include additional UK fast food competitors
-Predictive modelling: Build models to forecast engagement
-A/B testing framework: Develop testing recommendations for brands
-Automation: Explore Instagram API access for automated data collection
-📊 Project Overview
-This project analyses Instagram performance across three major UK fast food brands to understand what drives engagement in the competitive food service sector. By examining 57 recent Instagram posts, this analysis reveals key insights about content strategy, posting behaviour, and customer engagement patterns.
+- Expand timeframe: Collect 3-6 months of data for trend analysis
+- Sentiment analysis: Analyse comment sentiment and tone
+- Add more brands: Include additional UK fast food competitors
+- Predictive modelling: Build models to forecast engagement
+- A/B testing framework: Develop testing recommendations for brands
+- Automation: Explore Instagram API access for automated data collection
 
 
 
